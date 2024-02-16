@@ -1,10 +1,10 @@
-<div align="center" style="display:grid;place-items:center;">
+﻿<div align="center" style="display:grid;place-items:center;">
   <p>
-      <a href="https://sisk.proj.pw/" target="_blank"><img width="160" src="https://github.com/sisk-http/core/blob/main/.github/Icon.png?raw=true" alt="V logo"></a>
+      <a href="https://sisk.proj.pw/" target="_blank"><img width="160" src="./.github/Icon.png"></a>
   </p>
   <h1>Sisk Framework</h1>
 
-  [Discover Sisk](https://sisk.project-principium.dev/) | [Documentation](https://sisk.project-principium.dev/read?q=/contents/docs/welcome.md) | [Changelog](https://github.com/sisk-http/docs/blob/master/Changelog.md) | [Specification](https://sisk.project-principium.dev/read?q=/contents/spec/index.md) | [Benchmark](https://github.com/sisk-http/benchmarks) | [Roadmap](https://github.com/orgs/sisk-http/projects/1)
+  [Discover Sisk](https://sisk.project-principium.dev/) | [Documentation](https://md.proj.pw/sisk-http/docs-v2/main) | [Changelogs](https://github.com/sisk-http/archive/tree/master/changelogs) | [Benchmarks](https://github.com/sisk-http/benchmarks)
 
   <div>
 
@@ -17,10 +17,7 @@
 
   **Sisk** is a **web development framework** that is lightweight, agnostic, easy, simple, and robust. The perfect choice for your next project.
 
-  **You can do more with less.**
-
 </div>
-
 -----
 
 ### Getting Started
@@ -29,6 +26,6 @@ Please, visit [sisk-http/core](https://github.com/sisk-http/core) repository or 
 
 ### Documentation
 
-You can get started with Sisk [here](https://sisk.project-principium.dev/read?q=/contents/docs/getting-started.md) or build the documentation repository [here](https://github.com/sisk-http/docs).
+You can get started with Sisk [here](https://md.proj.pw/sisk-http/docs-v2/main/) or build the documentation repository [here](https://github.com/sisk-http/docs-v2).
 
 For information about release notes, changelogs and API breaking changes, see [docs/Changelog.md](https://github.com/sisk-http/docs/blob/master/Changelog.md).
